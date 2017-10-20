@@ -1,0 +1,1 @@
+Sketch needs to be hosted on local server to work due to p5 sound library not being able to load local files directly.
